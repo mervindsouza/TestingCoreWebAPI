@@ -1,4 +1,14 @@
 ﻿<Properties StartupConfiguration="{FA62863E-1C97-4BC3-8DA5-D92EC13CA659}|Default">
-  <MonoDevelop.Ide.ItemProperties.ToDoListAPI FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoListAPI/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="ToDoListAPI/Controllers/ValuesController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ToDoListAPI PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

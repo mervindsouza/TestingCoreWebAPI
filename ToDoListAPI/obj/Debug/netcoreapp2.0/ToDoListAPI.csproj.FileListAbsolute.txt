@@ -1,0 +1,11 @@
+/Users/merv/Projects/ToDoListAPI/ToDoListAPI/bin/Debug/netcoreapp2.0/ToDoListAPI.deps.json
+/Users/merv/Projects/ToDoListAPI/ToDoListAPI/bin/Debug/netcoreapp2.0/ToDoListAPI.runtimeconfig.json
+/Users/merv/Projects/ToDoListAPI/ToDoListAPI/bin/Debug/netcoreapp2.0/ToDoListAPI.runtimeconfig.dev.json
+/Users/merv/Projects/ToDoListAPI/ToDoListAPI/bin/Debug/netcoreapp2.0/ToDoListAPI.dll
+/Users/merv/Projects/ToDoListAPI/ToDoListAPI/bin/Debug/netcoreapp2.0/ToDoListAPI.pdb
+/Users/merv/Projects/ToDoListAPI/ToDoListAPI/obj/Debug/netcoreapp2.0/ToDoListAPI.csprojResolveAssemblyReference.cache
+/Users/merv/Projects/ToDoListAPI/ToDoListAPI/obj/Debug/netcoreapp2.0/ToDoListAPI.csproj.CoreCompileInputs.cache
+/Users/merv/Projects/ToDoListAPI/ToDoListAPI/obj/Debug/netcoreapp2.0/ToDoListAPI.AssemblyInfoInputs.cache
+/Users/merv/Projects/ToDoListAPI/ToDoListAPI/obj/Debug/netcoreapp2.0/ToDoListAPI.AssemblyInfo.cs
+/Users/merv/Projects/ToDoListAPI/ToDoListAPI/obj/Debug/netcoreapp2.0/ToDoListAPI.dll
+/Users/merv/Projects/ToDoListAPI/ToDoListAPI/obj/Debug/netcoreapp2.0/ToDoListAPI.pdb
